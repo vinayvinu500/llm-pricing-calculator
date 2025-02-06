@@ -40,3 +40,4 @@ websockets
 transformers
 sqlite
 pysqlite3
+torch
